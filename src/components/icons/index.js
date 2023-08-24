@@ -1,0 +1,9 @@
+export { default as ArrowUp } from './ArrowUp.vue';
+export { default as ArrowDown } from './ArrowDown.vue';
+export { default as Pencil } from './Pencil.vue';
+export { default as Trash } from './Trash.vue';
+export { default as Drag } from './Drag.vue';
+export { default as Search } from './Search.vue';
+export { default as Clear } from './Clear.vue';
+export { default as Favorites } from './Favorites.vue';
+export { default as Plus } from './Plus.vue';
